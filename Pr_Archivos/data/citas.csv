@@ -1,0 +1,13 @@
+id_cita,fecha,hora,motivo,id_paciente,estado
+1,2026-05-14,15:30,Lesion,1001,Completada
+2,2026-05-16,12:50,Fractura,1003,Completada
+3,2026-05-16,20:00,Fractura,1001,Completada
+4,2026-05-18,9:30,Vomito,1004,Completada
+5,2026-05-18,15:30,Heridas en patas.,1001,Completada
+6,2026-05-19,10:00,Chequeo general,1005,Confirmada
+7,2026-05-19,11:30,Vacunacion anual,1006,Confirmada
+8,2026-05-18,08:00,Dolor de oido,1007,Completada
+9,2026-05-20,16:00,Corte de uñas y desparasitacion,1008,Pendiente
+10,2026-05-18,14:00,Estornudos frecuentes,1009,Completada
+11,2026-05-21,09:00,Limpieza dental,1010,Pendiente
+12,2026-05-22,12:00,Control de peso,1011,Pendiente

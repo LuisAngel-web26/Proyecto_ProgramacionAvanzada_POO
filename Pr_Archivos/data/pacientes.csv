@@ -1,0 +1,12 @@
+id_paciente,nombre,especie,raza,fecha_nacimiento,peso,dni_propietario
+1001,Zoe,Gato,Pelos,2026-05-14,20.0,
+1002,Lol,Perro,RodW,2026-05-14,52.0,
+1003,Botas,Gato,Taby,2026-05-16,20.0,
+1004,Atole,Gato,Taby,2026-05-18,15.0,
+1005,Max,Perro,Labrador Retriever,2021-03-15,32.5,
+1006,Luna,Perro,Chihuahua,2018-08-22,2.8,
+1007,Rocky,Perro,Pastor Alemán,2020-11-10,38.0,
+1008,Toby,Perro,Husky Siberiano,2023-01-05,24.2,
+1009,Milo,Gato,Gato Siamés,2022-05-18,4.2,
+1010,Bella,Gato,Gato Persa,2019-12-01,3.5,
+1011,Simba,Gato,Gato Maine Coon,2024-02-14,7.8,

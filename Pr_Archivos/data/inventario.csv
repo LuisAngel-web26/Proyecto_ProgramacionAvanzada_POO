@@ -1,0 +1,13 @@
+id_producto,nombre,stock,precio
+P01,Vacuna Rabia,15,150.0
+P02,Antibiotico,0,85.5
+P03,Desparasitante,10,45.0
+P04,Alimento Premium Perro (10kg),8,650.0
+P05,Shampoo Antipulgas,12,120.0
+P06,Collar Antipulgas,25,180.0
+P07,Jeringa Desechable 3ml (Caja x100),15,250.0
+P08,Gotas Oticas (Otoclean),6,95.0
+P09,Antihistaminico Felino,15,55.0
+P10,Cepillo para Mascotas,10,75.0
+P11,Limpiador Dental (Spray),5,110.0
+P12,Vitaminas Mascotas,14,220.0

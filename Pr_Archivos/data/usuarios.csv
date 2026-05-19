@@ -1,0 +1,6 @@
+id_usuario,nombre,password,rol,nivel_seguridad,departamento,cedula,especialidad,horario
+admin,Administrador,1234,Administrador,10,Direccion,,,
+vet01,Dr. Juan,5678,Veterinario,,,VET-123,Cirugia,9:00-18:00
+1552514,Luis,9959,Veterinario,,,CED-000,Cirugia,9:00-18:00
+vet02,Carlos,9959,Veterinario,,,25265625,Cirugia,8-2
+vet04,Roberto,9959,Administrador,5,Cirugia,,,
