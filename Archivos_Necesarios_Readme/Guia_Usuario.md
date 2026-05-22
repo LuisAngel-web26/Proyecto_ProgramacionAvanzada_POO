@@ -26,8 +26,9 @@ Al abrir la aplicación, se presentará una pantalla de acceso con diseño elega
 1.  **Ingresar Credenciales:**
     *   Escriba su nombre de usuario en el campo **USUARIO**.
     *   Escriba su contraseña secreta en el campo **CONTRASEÑA** (los caracteres se ocultarán automáticamente).
+    *   Para poder interactuar con el programa y observar su interfaz, la credencial para admnistrador en usuario, es "admin" y la contraseña es "1234", para un veterinario de ejemplo es "vet01" y su contraseña es       "5678".
 2.  **Iniciar Sesión:**
-    *   Haga clic en el botón verde **INICIAR SESIÓN** o presione la tecla *Enter*.
+    *   Haga clic en el botón verde **INICIAR SESIÓN**.
     *   Si los datos son correctos, ingresará al **Dashboard (Panel de Control)** y se adaptará el menú lateral (sidebar) según su rol de usuario asignado.
 
 > 💡 **Nota:** Si las credenciales no coinciden, el sistema mostrará un mensaje de error advirtiendo el acceso denegado.
